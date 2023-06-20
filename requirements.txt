@@ -1,0 +1,7 @@
+Flask
+pandas
+scikit-learn
+streamlit
+numpy
+matplotlib
+gunicorn
